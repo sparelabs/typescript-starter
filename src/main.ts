@@ -1,1 +1,3 @@
-console.log("Hello, world!")
+import { bar } from './Foo'
+
+console.log(`Hello, world! ${bar}`)

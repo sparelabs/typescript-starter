@@ -8,5 +8,4 @@ yarn ts-node src/main.ts
 ## TODO
 - eslint/prettier
 - jest
-- make sure modules import correctly
 - VScode config
